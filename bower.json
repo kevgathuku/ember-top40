@@ -1,0 +1,25 @@
+{
+  "name": "ember-top40",
+  "version": "0.0.1",
+  "authors": [
+    "Kevin Ndung'u <kevgathuku@gmail.com>"
+  ],
+  "description": "Interacting with the UK Top 40 singles charts",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "~2.8.4",
+    "ember": "~1.9.0"
+  },
+  "main": "index.html",
+  "keywords": [
+    "music",
+    "charts"
+  ]
+}
